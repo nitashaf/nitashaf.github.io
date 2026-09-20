@@ -1,22 +1,12 @@
-# 👋 Hi, I'm Nitasha Fazal
+# Nitasha Fazal — Professional & Founder Page
 
-I’m a software engineer and researcher with over 10 years of experience in software development and data systems, currently focusing on **Artificial Intelligence**, **Machine Learning**, and **High-Performance Computing (HPC)**.
+Personal landing page for Nitasha Fazal, Senior Software Engineer and founder of Neuroforge Solutions.
 
----
+The page introduces Nitasha’s engineering background and presents TransferATS, an AI-assisted hiring platform that identifies transferable skills beyond exact keyword matching while keeping hiring decisions with people.
 
-### 🔬 Research Interests
-- Reinforcement Learning  
-- Trustworthy and Interpretable ML  
-- AI for Real-world Systems and Data  
+## Live links
 
----
-
-### 💻 Projects
-- [SMART FIRES Project (MSU)](https://www.mtnsfepscor.org/projects/smart-fires) – Big data & AI in environmental monitoring.  
-- [GitHub Profile](https://github.com/nitashaf)  
-
----
-
-### 📫 Contact
-- 📧 [nitashafazal@gmail.com](mailto:nitashafazal@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/nitasha-fazal)
+- [Professional page](https://nitashaf.github.io/)
+- [TransferATS](https://transferats.neuroforge-sol.com/)
+- [LinkedIn](https://www.linkedin.com/in/nitasha-fazal)
+- [GitHub](https://github.com/nitashaf)
